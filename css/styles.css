@@ -11771,7 +11771,7 @@ section.cta:before {
   /* position: relative;
   z-index: 1; */
   /* background-color: #053A4D; */
-  background-image: url(/assets/img/index-about-bg.png);
+  background-image: url(../assets/img/index-about-bg.png);
   background-position: 0, 1em;
   background-repeat: no-repeat;
   padding-top: 0rem;
